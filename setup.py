@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['opencv-python', 'pyautogui', 'pyaudio'],
+    install_requires=['beautifulsoup4', 'requests'],
     keywords=['python', 'beautifulsoup4', 'requests'],
     classifiers=[
     ]
